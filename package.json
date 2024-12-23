@@ -1,4 +1,3 @@
-<antArtifact identifier="package-json" type="application/vnd.ant.code" language="json">
 {
   "name": "mobile-task-system",
   "version": "0.1.0",
