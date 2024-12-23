@@ -1,4 +1,4 @@
-<antArtifact identifier="utils-ts" type="application/vnd.ant.code">
+
 import { type ClassValue, clsx } from "clsx"
 import { twMerge } from "tailwind-merge"
  
