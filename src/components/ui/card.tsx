@@ -1,4 +1,3 @@
-<antArtifact identifier="card-component" type="application/vnd.ant.code">
 import * as React from "react"
 import { cn } from "@/lib/utils"
 
