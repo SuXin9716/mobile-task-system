@@ -1,4 +1,3 @@
-<antArtifact identifier="task-system-component" type="application/vnd.ant.code">
 'use client'
 
 import { useState } from 'react'
