@@ -1,4 +1,3 @@
-<antArtifact identifier="tailwind-config" type="application/vnd.ant.code" language="javascript">
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   darkMode: ["class"],
@@ -35,4 +34,4 @@ module.exports = {
     },
   },
   plugins: [require("tailwindcss-animate")],
-}
+};
